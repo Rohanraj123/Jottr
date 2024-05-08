@@ -1,4 +1,5 @@
 # Jottr - A Blogging Web Application
+(https://github.com/ShivamJha2436/Jottr/assets/122988410/ab7841ee-517e-4bf8-997d-0b9b9fe5bb95)
 
 Jottr is a full-stack web application for creating and managing blogs. It allows users to sign up, create, edit, and delete their own blog posts. Jottr is built using React for the frontend, Node.js and Express.js for the backend, and MongoDB for the database.
 
